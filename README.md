@@ -1,7 +1,5 @@
 # BMDeT
 
-The code will be released after the paper is published. 
-
 This repository provides the BMDeT model described in the paper and a simple demo.
 
 Paper: 
@@ -14,6 +12,4 @@ DOI: 10.1109/TSG.2023.3296647
 
 You need to customize the ReadData function by yourself.
 
-Data Download: 
-
-You can download the corresponding multi-energy load dataset in the paper at https://cm.asu.edu/. 
+Data Download: https://cm.asu.edu/. 
